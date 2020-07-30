@@ -82,3 +82,6 @@ D:\Repos\Proapps\MyLocalFarm\MyLocalFarm.Web\obj\Debug\netcoreapp3.1\MyLocalFarm
 D:\Repos\Proapps\MyLocalFarm\MyLocalFarm.Web\obj\Debug\netcoreapp3.1\MyLocalFarm.Web.pdb
 D:\Repos\Proapps\MyLocalFarm\MyLocalFarm.Web\obj\Debug\netcoreapp3.1\MyLocalFarm.Web.genruntimeconfig.cache
 D:\Repos\Proapps\MyLocalFarm\MyLocalFarm.Web\bin\Debug\netcoreapp3.1\package.json
+D:\Repos\Proapps\MyLocalFarm\MyLocalFarm.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Repos\Proapps\MyLocalFarm\MyLocalFarm.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Repos\Proapps\MyLocalFarm\MyLocalFarm.Web\obj\Debug\netcoreapp3.1\MyLocalFarm.Web.csprojAssemblyReference.cache
